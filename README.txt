@@ -1,5 +1,3 @@
 
-sitaki mimi
-sitaki
-kwanini
+sitaki 
 
