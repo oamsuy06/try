@@ -6,4 +6,6 @@ sitaki
 local
 weka chochote hapa
 
+niweke nini wewe,chezea local
+
 
